@@ -23,4 +23,3 @@ To use the web app, upload a text file using the form on the home page, then typ
 This web app was created using the Hugging Face Transformers library and the Flask web framework.
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
